@@ -1,0 +1,9 @@
+Jan 7th 2019:
+- installed Ubuntu 18.04 on my work station.
+- set up work station environments.
+- discussed details on my task.
+
+Jan 8th 2019:
+- cloned the working repository.
+- set up and logged into my account in the internal server.
+- familiarize with the project goal and source code.
