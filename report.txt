@@ -6,4 +6,5 @@ Jan 7th 2019:
 Jan 8th 2019:
 - cloned the working repository.
 - set up and logged into my account in the internal server.
-- familiarize with the project goal and source code.
+- familiarize myself with the project goal and source code.
+- familiarize myself with jQuery and javascript.
