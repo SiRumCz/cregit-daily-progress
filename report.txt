@@ -8,3 +8,9 @@ Jan 8th 2019:
 - set up and logged into my account in the internal server.
 - familiarize myself with the project goal and source code.
 - familiarize myself with jQuery and javascript.
+
+Jan 9th 2019:
+- downloaded database files for the further development and testing.
+- played around with the database(person, token, and line) to get familiarized with the project and examples project used.
+- inspected the source code to see how things work, mostly perl file, perl HTML-templates, and javascript files to create pages view.
+- installed perl and HTML::Template module on local machine.
