@@ -14,3 +14,7 @@ Jan 9th 2019:
 - played around with the database(person, token, and line) to get familiarized with the project and examples project used.
 - inspected the source code to see how things work, mostly perl file, perl HTML-templates, and javascript files to create pages view.
 - installed perl and HTML::Template module on local machine.
+
+Jan 10th 2019:
+- read source code and paper
+- familiarize and understrand with the definition of token-level and its difference with line-level git-blame.
