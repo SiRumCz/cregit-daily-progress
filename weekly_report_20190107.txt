@@ -1,24 +1,24 @@
-Jan 7th 2019:
+Jan 7th:
 - installed Ubuntu 18.04 on my work station.
 - set up work station environments.
 - discussed details on my task.
 
-Jan 8th 2019:
+Jan 8th:
 - cloned the working repository.
 - set up and logged into my account in the internal server.
 - familiarize myself with the project goal and source code.
 - familiarize myself with jQuery and javascript.
 
-Jan 9th 2019:
+Jan 9th:
 - downloaded database files for the further development and testing.
 - played around with the database(person, token, and line) to get familiarized with the project and examples project used.
 - inspected the source code to see how things work, mostly perl file, perl HTML-templates, and javascript files to create pages view.
 - installed perl and HTML::Template module on local machine.
 
-Jan 10th 2019:
+Jan 10th:
 - read source code and paper.
 - familiarize and understrand with the definition of token-level and its difference with line-level git-blame.
 
-Jan 11th 2019:
+Jan 11th:
 - set up environment on local linux workstation. 
 - understand what has the prettyPrint done to the oringin-repo by inspecting and comparing input files to the output html files and tokenized files.
