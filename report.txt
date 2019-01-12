@@ -16,5 +16,9 @@ Jan 9th 2019:
 - installed perl and HTML::Template module on local machine.
 
 Jan 10th 2019:
-- read source code and paper
+- read source code and paper.
 - familiarize and understrand with the definition of token-level and its difference with line-level git-blame.
+
+Jan 11th 2019:
+- set up environment on local linux workstation. 
+- understand what has the prettyPrint done to the oringin-repo by inspecting and comparing input files to the output html files and tokenized files.
