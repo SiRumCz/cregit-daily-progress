@@ -1,0 +1,5 @@
+Jan 14th:
+- ran prvious pag prettyPrint and get familar with the perl script
+- dealed with couple problems when run the perl script
+- updated working database and fixed some issues
+- learn perl
