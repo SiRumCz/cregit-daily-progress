@@ -8,3 +8,8 @@ Jan 15th:
 - meeting with Dr. Daniel
 - learn a little more about perl and practice with perl to make simple scripts
 - inspect database more closly
+
+Jan 16th:
+- read documentations of perl modules
+- followed tutorial to write a simple perl test script
+- sketch initial ideas on how to finish the task
