@@ -13,3 +13,11 @@ Jan 16th:
 - read documentations of perl modules
 - followed tutorial to write a simple perl test script
 - sketch initial ideas on how to finish the task
+
+Jan 17th:
+- read original perl scrripts to analyze the statistics
+- working in progress
+
+Jan 18th:
+- working on the statistics needed for the task
+- working in progress
