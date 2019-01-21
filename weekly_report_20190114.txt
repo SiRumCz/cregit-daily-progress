@@ -21,3 +21,4 @@ Jan 17th:
 Jan 18th:
 - working on the statistics needed for the task
 - working in progress
+- working on collecting statistics for each directory entry
