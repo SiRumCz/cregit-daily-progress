@@ -1,0 +1,5 @@
+Jan 21st:
+- working on processing data using perl
+- design data format and what will be presented for the task
+- present full data using a tree hierachy view
+- bug fixes
