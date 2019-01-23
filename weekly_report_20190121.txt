@@ -3,3 +3,7 @@ Jan 21st:
 - design data format and what will be presented for the task
 - present full data in a hierachy view
 - bug fixes
+
+Jan 22nd:
+- updating the perl script
+- after the meeting with Dr. Daniel, I feel I missunderstood some of the details to the task, I will rethink the visualization
