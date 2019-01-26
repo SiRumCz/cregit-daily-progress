@@ -8,6 +8,9 @@ Jan 22nd:
 - updating the perl script
 - after the meeting with Dr. Daniel, I feel I missunderstood some of the details to the task, I will rethink the visualization
 
-jan 23rd:
+Jan 23rd:
 - redesign and sketch the directory view
 - read javascript source code on page view
+
+Jan 24th and 25th:
+- learning jquery and designing UI with html and css
