@@ -14,3 +14,6 @@ Jan 23rd:
 
 Jan 24th and 25th:
 - learning jquery and designing UI with html and css
+- working on basic html layout and minimap view
+- designing the logic of highlighting
+- working on the design of the stacked color bar status for each directory content
