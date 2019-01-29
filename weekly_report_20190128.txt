@@ -1,0 +1,5 @@
+Jan 28th:
+- working on visual components
+- learning css styles and box model concepts
+- came up with a high resolution demo page
+- still working on the decision to some of the details for the visual
