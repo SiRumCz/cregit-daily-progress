@@ -3,3 +3,13 @@ Jan 28th:
 - learning css styles and box model concepts
 - came up with a high resolution demo page
 - still working on the decision to some of the details for the visual
+
+Jan 29th:
+- meeting, weekly report
+- keep working on the implementation
+- set up apache httpd server
+
+Jan 30th:
+- working on the perl HTML template
+- also some of the javascript visual interactions
+- start the work-term report draft
