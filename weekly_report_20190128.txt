@@ -13,3 +13,14 @@ Jan 30th:
 - working on the perl HTML template
 - also some of the javascript visual interactions
 - start the work-term report draft
+
+Jan 31st:
+- working on the perl script for data parsing into HTML tempalte
+
+Feb 1st:
+- drafting problem description and proposed solutions
+
+Feb 2nd and 3rd:
+- finishing basic apperance of the directory view without any interaction
+- perl 5 script successfully generates all the directory for every directory in Git repository example
+- a rough demo view is avaiable on apache server
