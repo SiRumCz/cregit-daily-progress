@@ -5,6 +5,7 @@ Feb 04th:
 Feb 05th:
 - bug fix on the perl scripts
 - meeting with Dr. German regarding the current visual demo and future goal
+- push the current work to my forked github repository
 
 Feb 06th:
 - new layout of the view
