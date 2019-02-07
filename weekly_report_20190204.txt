@@ -1,0 +1,11 @@
+Feb 04th:
+- drafting work term report
+- minor changes to the visual layout
+
+Feb 05th:
+- bug fix on the perl scripts
+- meeting with Dr. German regarding the current visual demo and future goal
+
+Feb 06th:
+- new layout of the view
+- adding more information such as line counts and file counts for content under directory
