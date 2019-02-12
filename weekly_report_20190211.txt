@@ -1,0 +1,2 @@
+Feb 11th:
+- working on minimap and some of other javascript functions
