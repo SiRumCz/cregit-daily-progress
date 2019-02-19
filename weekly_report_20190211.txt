@@ -1,2 +1,17 @@
 Feb 11th:
 - working on minimap and some of other javascript functions
+
+Feb 12th:
+- meeting
+
+Feb 13th:
+- adding hide subdirectory button
+- adding expandable table
+
+Feb 14th:
+- bug and visual fixes
+- working on highlighting By Author
+
+Feb 15th:
+- highlighting By Author
+- adding animations
