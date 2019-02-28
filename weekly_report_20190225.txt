@@ -1,0 +1,10 @@
+Feb 25th:
+- finishing age highlighting
+- perl, javascript and perl html template
+
+Feb 26th:
+- meeting
+- discussed on future idea and ny next tasks
+
+Feb 27th:
+- clean code

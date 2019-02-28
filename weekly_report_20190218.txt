@@ -1,0 +1,18 @@
+Feb 18th:
+- holiday
+
+Feb 19th:
+- working on author highlighting
+- perl and javascript
+
+Feb 20th:
+- finishing author highlighting
+
+Feb 21th:
+- meeting with Dr. German
+- report and talked about tasks for next week
+
+Feb 22th:
+- redone the expandable table button
+- use javascript to control the expandable button
+- working on perl to process data for age highlighting
