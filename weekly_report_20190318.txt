@@ -1,0 +1,4 @@
+Mar 18th to 22nd:
+- working on perl script to generate html views.
+- this process took massive amount of my time because I was trying many different methods, such as read and write to a local txt files and it works as a local cache file.
+- Many approaches ends up failing because of the massive I/O activity and has very slow processing time even on small project such as Git repository. 

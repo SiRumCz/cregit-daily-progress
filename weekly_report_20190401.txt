@@ -1,0 +1,4 @@
+April 1st to 5th:
+- move the use full sql aggregation and store any data into a database as discussed with Dr. Daniel German.
+- writing scripts and prepare DBI statement for SQL queries.
+- also we decided to trim the author data into two parts, one is top 60 authors and one is for authors below 60 that they are grouped into author called others.

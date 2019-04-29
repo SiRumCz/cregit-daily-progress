@@ -1,0 +1,6 @@
+April 8th to 12th:
+- done the hard drive swap to solid state drive for better I/O performance as the performance of my script was very poor
+- after talked to Dr. Daniel German, I added the indexes for three of my tables and it dramastically improved the performance 
+- from 16 hours down to 10 minutes on large project(linux)
+- in the mean time I also did many other fixes on my script for better performance such as avoiding repeatedly going through arrays
+- and cleaned sql queries

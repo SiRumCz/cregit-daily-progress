@@ -1,0 +1,12 @@
+Mar 4th:
+- fix bugs
+- create a pull request on github for the directory view
+
+Mar 5th to 8th:
+- My first script that genderates html view for directory would take very long time to
+process on large project such as Linux kernel.
+- I had discussion with Dr. German on this and he pointed out my code used too many 
+memory and also the loading time for browser to load html view was also too long and 
+have a very high chance to crash the browser. I then started to rebuild my script.
+- My new idea was to instead build a full structure of the repository, we go into the 
+deepest subdirectory and from there it starts generate html view.

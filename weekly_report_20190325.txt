@@ -1,0 +1,4 @@
+Mar 25th to 29th:
+- starting my next approach which is using completly full SQLite databse query operation to generate html view.
+- was encountering performance issues and trying different method to improve it.
+- in the mean time I was also working on work term report for my co-op.
