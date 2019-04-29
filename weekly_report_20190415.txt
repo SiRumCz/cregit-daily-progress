@@ -1,0 +1,17 @@
+Apri1 15th:
+- designing new features: gender highlighting
+- what to be presented, what data are needed for each item
+- what interaction should there be for the new highlighting feature
+
+Apri1 16th:
+- scripts in progress
+
+Apri1 17th:
+- sql queries testing and html template adjusting
+
+Apri1 18th:
+- finishing html page interactions
+- showing different token proportions created by each gender by adjusting dates
+
+Apri1 19th:
+- good friday

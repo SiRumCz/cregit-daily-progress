@@ -1,0 +1,23 @@
+April 22nd:
+- easter monday
+
+April 23rd:
+- had meeting with Dr. Daniel German talking about the noew gender features
+- got lots of good feedbacks and suggestions
+- new task on designing a new view for seperated gender section
+- many small changes to the current design
+
+April 24th:
+- writing implementations for small changes such as showing tokens for each item and some visual changes 
+
+April 25th:
+- modified and tested sql queries to show how many files were touched by each author
+- gender view in progress
+
+April 26th:
+- created sql query for contributor table for gender view
+- creat html template for noew gender view
+
+April 27 and 28th:
+- created static contribution ratio graph for each item(subdirectories and files)
+- gender view interactions in progress
